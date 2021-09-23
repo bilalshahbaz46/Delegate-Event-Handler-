@@ -1,0 +1,14 @@
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\bin\Debug\netcoreapp3.1\PracticeConsole.exe
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\bin\Debug\netcoreapp3.1\PracticeConsole.deps.json
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\bin\Debug\netcoreapp3.1\PracticeConsole.runtimeconfig.json
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\bin\Debug\netcoreapp3.1\PracticeConsole.runtimeconfig.dev.json
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\bin\Debug\netcoreapp3.1\PracticeConsole.dll
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\bin\Debug\netcoreapp3.1\PracticeConsole.pdb
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\obj\Debug\netcoreapp3.1\PracticeConsole.csprojAssemblyReference.cache
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\obj\Debug\netcoreapp3.1\PracticeConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\obj\Debug\netcoreapp3.1\PracticeConsole.AssemblyInfoInputs.cache
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\obj\Debug\netcoreapp3.1\PracticeConsole.AssemblyInfo.cs
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\obj\Debug\netcoreapp3.1\PracticeConsole.csproj.CoreCompileInputs.cache
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\obj\Debug\netcoreapp3.1\PracticeConsole.dll
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\obj\Debug\netcoreapp3.1\PracticeConsole.pdb
+D:\Work\Light Point\PracticeConsole\PracticeConsole\PracticeConsole\obj\Debug\netcoreapp3.1\PracticeConsole.genruntimeconfig.cache
